@@ -30,5 +30,5 @@ Yygggghhhcdrhvdrhhg
 
 ---
 
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6fd-08f84ad10acb/image.png" width="115" alt="AWS Certified Cloud Practitioner">
-<img src="https://images.credly.com/size/340x340/images/f356ebed-29e2-45e0-b620-3b9549f3e9c5/image.png" width="115" alt="ISC2 Certified in Cybersecurity">
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-1F4589?style=for-the-badge)
