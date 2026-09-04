@@ -30,5 +30,5 @@ Yygggghhhcdrhvdrhhg
 
 ---
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-1F4589?style=for-the-badge)
+<img src="aws-badge.png" width="115" alt="AWS Certified Cloud Practitioner">
+<img src="isc2-badge.png" width="115" alt="ISC2 Certified in Cybersecurity">
