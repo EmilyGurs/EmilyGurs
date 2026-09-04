@@ -10,10 +10,6 @@ Yygggghhhcdrhvdrhhg
 | **Certified in Cybersecurity (CC)** | ISC² | ![ISC2 CC](https://shields.io²-CC-blue?style=flat-square&logo=isc2&logoColor=white) |
 | **AWS Certified Cloud Practitioner** | Amazon Web Services | ![AWS CCP](https://shields.io) |
 
-*💡 Tip: Click the links below to verify my credentials on Credly:*
-* [Verify ISC² CC Credential](https://credly.com)
-* [Verify AWS Cloud Practitioner Credential](https://credly.com)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-g-683389331/)
@@ -30,5 +26,6 @@ Yygggghhhcdrhvdrhhg
 
 ---
 
-<img src="aws-badge.png" width="115" alt="AWS Certified Cloud Practitioner">
-<img src="isc2-badge.png" width="115" alt="ISC2 Certified in Cybersecurity">
+| AWS Certified Cloud Practitioner | ISC2 Certified in Cybersecurity |
+| :---: | :---: |
+| <img src="YOUR-AWS-FILE-NAME.png" width="115"> | <img src="YOUR-ISC2-FILE-NAME.png" width="115"> |
