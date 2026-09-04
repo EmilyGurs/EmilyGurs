@@ -30,11 +30,5 @@ Yygggghhhcdrhvdrhhg
 
 ---
 
-<div align="left">
-  <a href="YOUR_AWS_CREDLY_URL_HERE">
-    <img src="PATH_TO_YOUR_UPLOADED_AWS_BADGE.png" width="110" alt="AWS Certified Cloud Practitioner">
-  </a>
-  <a href="YOUR_ISC2_CREDLY_URL_HERE">
-    <img src="PATH_TO_YOUR_UPLOADED_ISC2_BADGE.png" width="110" alt="ISC2 Certified in Cybersecurity (CC)">
-  </a>
-</div>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6fd-08f84ad10acb/image.png" width="115" alt="AWS Certified Cloud Practitioner">
+<img src="https://images.credly.com/size/340x340/images/f356ebed-29e2-45e0-b620-3b9549f3e9c5/image.png" width="115" alt="ISC2 Certified in Cybersecurity">
