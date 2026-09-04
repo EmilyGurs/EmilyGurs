@@ -29,3 +29,11 @@ Yygggghhhcdrhvdrhhg
 ![](https://github-profile-trophy.vercel.app/?username=EmilyGurs&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
+<a href="YOUR_AWS_CREDLY_URL_HERE">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner">
+</a>
+
+<a href="YOUR_ISC2_CREDLY_URL_HERE">
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-1F4589?style=for-the-badge" alt="ISC2 CC">
+</a>
