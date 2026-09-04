@@ -30,10 +30,11 @@ Yygggghhhcdrhvdrhhg
 
 ---
 
-<a href="YOUR_AWS_CREDLY_URL_HERE">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner">
-</a>
-
-<a href="YOUR_ISC2_CREDLY_URL_HERE">
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-1F4589?style=for-the-badge" alt="ISC2 CC">
-</a>
+<div align="left">
+  <a href="YOUR_AWS_CREDLY_URL_HERE">
+    <img src="PATH_TO_YOUR_UPLOADED_AWS_BADGE.png" width="110" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="YOUR_ISC2_CREDLY_URL_HERE">
+    <img src="PATH_TO_YOUR_UPLOADED_ISC2_BADGE.png" width="110" alt="ISC2 Certified in Cybersecurity (CC)">
+  </a>
+</div>
