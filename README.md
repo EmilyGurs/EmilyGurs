@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi there I'm Emily! 👋
+Hi there I'm Emily! 👋
 Over the past two years, I’ve been completely dedicated to learning all things cybersecurity and its related fields. 🛡️ 
 
 During this journey, I’ve earned two top industry certifications and completed accreditations from two different universities. 🎓 
