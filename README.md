@@ -3,6 +3,17 @@
 # 💫 About Me:
 Yygggghhhcdrhvdrhhg
 
+## 🛡️ Certifications
+
+| Certification | Issued By | Badge |
+| :--- | :--- | :--- |
+| **Certified in Cybersecurity (CC)** | ISC² | ![ISC2 CC](https://shields.io²-CC-blue?style=flat-square&logo=isc2&logoColor=white) |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | ![AWS CCP](https://shields.io) |
+
+*💡 Tip: Click the links below to verify my credentials on Credly:*
+* [Verify ISC² CC Credential](https://credly.com)
+* [Verify AWS Cloud Practitioner Credential](https://credly.com)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-g-683389331/)
