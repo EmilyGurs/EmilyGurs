@@ -5,10 +5,9 @@ Yygggghhhcdrhvdrhhg
 
 ## 🛡️ Certifications
 
-| Certification | Issued By | Badge |
-| :--- | :--- | :--- |
-| **Certified in Cybersecurity (CC)** | ISC² | ![ISC2 CC](https://shields.io²-CC-blue?style=flat-square&logo=isc2&logoColor=white) |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | ![AWS CCP](https://shields.io) |
+| AWS Certified Cloud Practitioner | ISC2 Certified in Cybersecurity |
+| :---: | :---: |
+| <img src="aws-badge.png" width="115"> | <img src="isc2-badge.png" width="115"> |
 
 
 ## 🌐 Socials:
@@ -25,7 +24,3 @@ Yygggghhhcdrhvdrhhg
 ![](https://github-profile-trophy.vercel.app/?username=EmilyGurs&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-| AWS Certified Cloud Practitioner | ISC2 Certified in Cybersecurity |
-| :---: | :---: |
-| <img src="aws-badge.png" width="115"> | <img src="isc2-badge.png" width="115"> |
