@@ -28,4 +28,4 @@ Yygggghhhcdrhvdrhhg
 
 | AWS Certified Cloud Practitioner | ISC2 Certified in Cybersecurity |
 | :---: | :---: |
-| <img src="YOUR-AWS-FILE-NAME.png" width="115"> | <img src="YOUR-ISC2-FILE-NAME.png" width="115"> |
+| <img src="aws-badge.png" width="115"> | <img src="isc2-badge.png" width="115"> |
